@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "abnormals_delight:item/vanilla_cake_slice"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.15
+      },
+      "model": "eatinganimation:item/ad_vanilla_cake_slice_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.27
+      },
+      "model": "eatinganimation:item/ad_vanilla_cake_slice_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.4
+      },
+      "model": "eatinganimation:item/ad_vanilla_cake_slice_eating_2"
+    }
+  ]
+}
+  }
+}

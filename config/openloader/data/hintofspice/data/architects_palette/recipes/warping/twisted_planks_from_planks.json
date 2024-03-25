@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "tag": "minecraft:planks"
+        }
+    ],
+    "result": {
+        "item": "malum:runewood_planks"
+    },
+    "dimension": "minecraft:the_nether"
+}

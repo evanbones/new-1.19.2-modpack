@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/mi_roasted_polypore_mushroom_eating_2"
+  }
+}

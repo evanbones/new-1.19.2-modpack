@@ -1,0 +1,48 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snowyspirit:items/gingerbread_cookie_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "shape": 1
+      },
+      "model": "snowyspirit:item/gingerbread_cookie_1"
+    },
+    {
+      "predicate": {
+        "shape": 2
+      },
+      "model": "snowyspirit:item/gingerbread_cookie_2"
+    },
+    {
+      "predicate": {
+        "shape": 3
+      },
+      "model": "snowyspirit:item/gingerbread_cookie_3"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.15
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.27
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.4
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_eating_2"
+    }
+  ]
+}

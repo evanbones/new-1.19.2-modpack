@@ -1,0 +1,16 @@
+{
+  "type": "nock_enough_arrows:fletching",
+  "arrowhead": {
+    "item": "neapolitan:banana"
+  },
+  "fin": {
+    "item": "minecraft:feather"
+  },
+  "result": {
+    "count": 1,
+    "item": "neapolitan:bananarrow"
+  },
+  "shaft": {
+    "item": "minecraft:stick"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "tag": "minecraft:saplings"
+        }
+    ],
+    "result": {
+        "item": "malum:runewood_sapling"
+    },
+    "dimension": "minecraft:the_nether"
+}

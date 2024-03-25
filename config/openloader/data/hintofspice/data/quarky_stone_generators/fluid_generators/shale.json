@@ -1,0 +1,16 @@
+{
+  "type": "target_self",
+  "fluid": "minecraft:lava",
+  "priority": 1,
+  "generate": {
+    "Name": "quark:shale"
+  },
+  "adjacent_blocks": {
+    "any": [
+      {
+        "predicate_type": "minecraft:tag_match",
+        "tag": "quarky_stone_generators:permafrost"
+      }
+    ]
+  }
+}

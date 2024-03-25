@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+ 	"berry_good:glow_berry_pips",
+	"atmospheric:aloe_kernels",
+	"#saplings"
+  ]
+}

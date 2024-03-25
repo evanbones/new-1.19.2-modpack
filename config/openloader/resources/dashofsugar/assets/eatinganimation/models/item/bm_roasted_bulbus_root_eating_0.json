@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/bm_roasted_bulbus_root_eating_0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "nock_enough_arrows:fletching",
+  "arrowhead": {
+    "item": "caverns_and_chasms:spinel"
+  },
+  "fin": {
+    "item": "minecraft:feather"
+  },
+  "result": {
+    "count": 4,
+    "item": "caverns_and_chasms:blunt_arrow"
+  },
+  "shaft": {
+    "item": "minecraft:stick"
+  }
+}

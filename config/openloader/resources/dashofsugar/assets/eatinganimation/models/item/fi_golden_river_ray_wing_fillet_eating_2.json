@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/fi_golden_river_ray_wing_fillet_eating_2"
+  }
+}

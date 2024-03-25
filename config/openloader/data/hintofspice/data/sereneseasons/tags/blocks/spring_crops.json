@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+	"atmospheric:aloe_vera",
+  	"minecraft:cave_vines",
+	"environmental:cattail",
+	"#saplings"
+  ]
+}

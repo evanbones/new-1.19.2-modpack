@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Armor and Tools",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "Gold tools come enchanted with fortune, and gold armor grants a little extra speed. Neat!"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "quark:cobblestone_bricks",
+    "quark:cobblestone_bricks_stairs",
+    "quark:cobblestone_bricks_slab",
+    "quark:cobblestone_bricks_wall"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "minecraft:deepslate_iron_ore"
+        }
+    ],
+    "result": {
+        "item": "malum:deepslate_soulstone_ore"
+    },
+    "dimension": "minecraft:the_nether"
+}

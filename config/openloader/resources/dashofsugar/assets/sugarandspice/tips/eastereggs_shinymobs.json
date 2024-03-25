@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Easter Eggs",
+    "bold": true,
+    "color": "aqua"
+  },
+  "tip": {
+    "text": "Some mobs have a 1 in 2048 chance to be shiny!"
+  }
+}

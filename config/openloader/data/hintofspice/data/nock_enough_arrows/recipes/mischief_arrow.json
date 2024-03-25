@@ -1,0 +1,16 @@
+{
+  "type": "nock_enough_arrows:fletching",
+  "arrowhead": {
+    "item": "savage_and_ravage:creeper_spores"
+  },
+  "fin": {
+    "item": "minecraft:feather"
+  },
+  "result": {
+    "count": 4,
+    "item": "savage_and_ravage:mischief_arrow"
+  },
+  "shaft": {
+    "item": "minecraft:stick"
+  }
+}

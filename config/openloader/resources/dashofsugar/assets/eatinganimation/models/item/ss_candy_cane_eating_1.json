@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "eatinganimation:item/ss_candy_cane_eating_1"
+  }
+}

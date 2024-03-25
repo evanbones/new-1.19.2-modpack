@@ -1,0 +1,21 @@
+{
+  "type": "target_self",
+  "fluid": "minecraft:lava",
+  "priority": 1,
+  "generate": {
+    "Name": "quark:jasper"
+  },
+  "adjacent_blocks": {
+    "any": [
+      {
+        "block_state": {
+          "Name": "immersive_weathering:cracked_mud",
+          "Properties": {
+            "soaked": "true"
+          }
+        },
+        "predicate_type": "minecraft:blockstate_match"
+      }
+    ]
+  }
+}

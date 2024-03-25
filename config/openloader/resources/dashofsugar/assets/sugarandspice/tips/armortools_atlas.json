@@ -1,0 +1,10 @@
+{
+  "title": {
+    "text": "Armor and Tools",
+    "bold": true,
+    "color": "red"
+  },
+  "tip": {
+    "text": "An Atlas is a map that automatically fills in places around you. It'll act as a minimap in your hotbar!"
+  }
+}

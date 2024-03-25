@@ -1,0 +1,29 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "habitat:item/kabloom_pulp"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.10
+      },
+      "model": "eatinganimation:item/ht_kabloom_pulp_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.25
+      },
+      "model": "eatinganimation:item/ht_kabloom_pulp_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.40
+      },
+      "model": "eatinganimation:item/ht_kabloom_pulp_eating_2"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/np_vanilla_chocolate_fingers_eating_0"
+  }
+}

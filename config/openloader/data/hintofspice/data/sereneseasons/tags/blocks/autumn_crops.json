@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+	"autumnity:foul_berry_bush",
+ 	"windswept:wild_berry_bush",
+ 	"atmospheric:aloe_vera",
+	"windswept:wild_berry_bush_pips",
+ 	"minecraft:cave_vines",
+ 	"berry_good:sweet_berry_bush",
+	"snowyspirit:ginger",
+	"farmersrespite:small_tea_bush",
+	"#saplings"
+  ]
+}

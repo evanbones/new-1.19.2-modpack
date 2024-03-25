@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer1": "eatinganimation:item/rq_potion_overlay_drinking_1",
+		"layer0": "reliquary:item/potion"
+	}
+}

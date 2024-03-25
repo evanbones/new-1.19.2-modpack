@@ -1,0 +1,30 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snowyspirit:items/gingerbread_cookie_1"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.15
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_1_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.27
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_1_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:eating": 1.0,
+        "eatinganimation:eat": 0.4
+      },
+      "model": "eatinganimation:item/ss_gingerbread_cookie_1_eating_2"
+    }
+  ]
+}

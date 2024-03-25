@@ -1,0 +1,29 @@
+{
+  "parent": "farmersdelight:item/mug",
+  "textures": {
+    "layer0": "farmersrespite:item/gamblers_tea"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.35
+      },
+      "model": "eatinganimation:item/fr_gamblers_tea_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.7
+      },
+      "model": "eatinganimation:item/fr_gamblers_tea_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.9
+      },
+      "model": "eatinganimation:item/fr_gamblers_tea_eating_2"
+    }
+  ]
+}

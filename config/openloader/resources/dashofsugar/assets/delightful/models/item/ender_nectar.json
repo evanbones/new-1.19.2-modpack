@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "delightful:item/ender_nectar"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.35
+      },
+      "model": "eatinganimation:item/dl_ender_nectar_eating_0"
+    },
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.7
+      },
+      "model": "eatinganimation:item/dl_ender_nectar_eating_1"
+    },
+    {
+      "predicate": {
+        "eatinganimation:drinking": 1.0,
+        "eatinganimation:drink": 0.9
+      },
+      "model": "eatinganimation:item/dl_ender_nectar_eating_2"
+    }
+  ]
+}

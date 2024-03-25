@@ -1,0 +1,16 @@
+{
+  "type": "nock_enough_arrows:fletching",
+  "arrowhead": {
+    "item": "alexsmobs:shark_tooth"
+  },
+  "fin": {
+    "item": "minecraft:kelp"
+  },
+  "result": {
+    "count": 8,
+    "item": "alexsmobs:shark_tooth_arrow"
+  },
+  "shaft": {
+    "item": "minecraft:stick"
+  }
+}

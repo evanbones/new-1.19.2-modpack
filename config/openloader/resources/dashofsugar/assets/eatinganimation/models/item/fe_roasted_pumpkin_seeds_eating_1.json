@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "eatinganimation:item/fe_roasted_pumpkin_seeds_eating_1"
+  }
+}
