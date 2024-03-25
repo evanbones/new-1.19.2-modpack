@@ -573,6 +573,18 @@
 			cut_amethyst_brick = true
 			azalea = true
 
+		[types.cut_block_type.alexsabnormalities]
+			shark_tooth_tile = true
+			shark_tooth_brick = true
+			cachalot_whale_tooth_tile = true
+			cachalot_whale_tooth_brick = true
+			bone_serpent_tooth_tile = true
+			bone_serpent_tooth_brick = true
+			crocodile_scute_pavement = true
+			crocodile_scute_shingle = true
+			spiked_scute_pavement = true
+			spiked_scute_shingle = true
+
 [entries]
 
 	[entries.wood_type]

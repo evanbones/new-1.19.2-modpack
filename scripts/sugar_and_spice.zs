@@ -397,29 +397,6 @@ craftingTable.removeByRegex(".*environmental/.*willow.*");
 craftingTable.removeByRegex("environmental:.*willow.*");
 craftingTable.removeByRegex("everycomp:.*environmental/willow.*");
 
-
-loot.modifiers.register( 
-    "remove_loot", 
-	LootConditions.none(),
-    CommonLootModifiers.removeAll 
-    ( 
-        <item:create:zinc_nugget>,
-		<item:quark:blossom_log>,
-		<item:quark:red_blossom_leaves>,
-        <item:create:zinc_block>,
-        <item:create:raw_zinc>,
-		<item:quark:spruce_leaf_carpet>,
-		<item:quark:oak_leaf_carpet>,
-		<item:supplementaries:flax_seeds>,
-		<item:supplementaries:rope>,
-		<item:supplementaries:flax>,
-        <item:create:raw_zinc_block>,
-        <item:create:zinc_ingot>,
-        <item:create:crushed_raw_zinc>
-    ) 
-);
-
-
 furnace.remove(<item:create:scoria>);
 craftingTable.remove(<item:create:scorchia>);
 craftingTable.remove(<item:minecraft:rabbit_stew>);
